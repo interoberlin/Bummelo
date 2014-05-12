@@ -1,4 +1,5 @@
-Eiropti-App
+Bummelo
 ===========
 
-Einkaufs-Routen-Optimierer Android-App
+Einkaufs-Routen-Optimierer
+Android-App und Server
